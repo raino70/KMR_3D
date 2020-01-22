@@ -1,0 +1,6 @@
+echo "# KMR_3D" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/raino70/KMR_3D.git
+git push -u origin master
